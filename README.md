@@ -1,3 +1,3 @@
 # h4h-gitdemo
 
-## Practical task for using GitHub
+## Practical tasks for learning GitHub processes
